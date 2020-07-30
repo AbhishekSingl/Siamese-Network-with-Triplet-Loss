@@ -8,10 +8,11 @@ Two implementations of Siamese Network for "Embedding Model":
 
 Here's the few imagesnippets from the code:
 ## Batch of Triplets - Anchor, Positive and Negative 
-https://github.com/AbhishekSingl/Siamese-Network-with-Triplet-Loss/blob/master/Batch%20of%20Triplets.png
+![triplets](https://github.com/AbhishekSingl/Siamese-Network-with-Triplet-Loss/blob/master/Batch%20of%20Triplets.png)
+
 
 ## TSNE result on MNIST using inception model.
-https://github.com/AbhishekSingl/Siamese-Network-with-Triplet-Loss/blob/master/TSNE_Inception.png
+![TSNE](https://github.com/AbhishekSingl/Siamese-Network-with-Triplet-Loss/blob/master/TSNE_Inception.png)
 
 # Requirements:
 Tensorflow 2.0
