@@ -15,8 +15,7 @@ Here's the few imagesnippets from the code:
 ![TSNE](https://github.com/AbhishekSingl/Siamese-Network-with-Triplet-Loss/blob/master/TSNE_Inception.png)
 
 # Requirements:
-Tensorflow 2.0
-Python 3
+Tensorflow 2.0, Python 3
 
 ### Feel free to fork and add your findings.
 
